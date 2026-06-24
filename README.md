@@ -4,7 +4,7 @@
 
 # Welcome to Rita's Github
 
-> Chemistry graduate → CS master's student · UX researcher · crochet enthusiast
+> Chemistry graduate → Informatics master's student · UX researcher · crochet enthusiast
 
 ## About me
 
